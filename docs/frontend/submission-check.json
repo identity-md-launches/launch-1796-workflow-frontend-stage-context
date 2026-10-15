@@ -1,0 +1,238 @@
+{
+  "scope": "All existing tracked files plus all new nonignored delivery files, excluding this report. No generated dependency/cache directories.",
+  "trackedFilesPreserved": 65,
+  "newFilesExcludingThisReport": 56,
+  "completeWorkingTreeBytesExcludingThisReport": 2507387,
+  "newFileBytesExcludingThisReport": 1522632,
+  "workingTreePlusOneMiBOverheadBudget": 3555963,
+  "budgetBytes": 8388608,
+  "temporaryCompleteSourceArchiveBytes": 908770,
+  "gitCommit": "Not created: checkout .git is read-only. Git bundle generation also cannot materialize missing promisor objects in this checkout. Managed submission owns the final Git packaging.",
+  "exportAssetCount": 13,
+  "newFilesSha256": [
+    {
+      "path": "dist/abi/LastWord.json",
+      "sha256": "74547c69d9753fe9e55c22a983c2ffbd899495bb24e63bb1a021f6f347693fcb"
+    },
+    {
+      "path": "dist/assets/ccip-BKX7cY05.js",
+      "sha256": "a86cad0e9b0bab9816f88cd4da5114ca1c21cbb6aae3a804339f7fffa15594f0"
+    },
+    {
+      "path": "dist/assets/dist-DWsCmvoZ.js",
+      "sha256": "c05fe0259b5701988b0849397ec5046c3958b9c010223d6d9b7b5bfb4479ec15"
+    },
+    {
+      "path": "dist/assets/index-CkSX29mA.js",
+      "sha256": "6821006977bc4e4ba60ac5eaf5758d10c7e166f844833534038cc08704e999c5"
+    },
+    {
+      "path": "dist/assets/index-Dp_LtwJ8.css",
+      "sha256": "5fa45951be20b6cabc35e452f9a0586be0412a5675f56c8a5c3e8fdaae690342"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "sha256": "a32138397576502dfeecc6dd25533e1f5b30845b4431a00a91ad33a4b102ab09"
+    },
+    {
+      "path": "dist/imd-deployment.json",
+      "sha256": "c649846b2e922ad582a26cc9429cecb54bf4636035d816c5c96f60f436f069cd"
+    },
+    {
+      "path": "dist/index.html",
+      "sha256": "e82604a148d60d42d71a9069193cd651af2efbc7c46b9e6de89552dac36ed39a"
+    },
+    {
+      "path": "dist/share.png",
+      "sha256": "2a02488a9ee24785a60f241113295d993c8a69e4b3a5729797618e6292e9e79c"
+    },
+    {
+      "path": "dist/wallets/browser.svg",
+      "sha256": "da691858d99ff7f08a4b2d7b2a6515a94d407e3cb61f02c6927a4e8827afb14d"
+    },
+    {
+      "path": "dist/wallets/coinbase.svg",
+      "sha256": "8d6330fd6cdc5108818d3db5fbd84e75d723fd1d7531a5b62b36982fc9868eac"
+    },
+    {
+      "path": "dist/wallets/metamask.svg",
+      "sha256": "892c7dfab8c4ca5682878dda3f42f55a75195d7d365e4adb0832845f3a0a2135"
+    },
+    {
+      "path": "dist/wallets/phantom.svg",
+      "sha256": "f841f8112e131259a2e5123177950099c79487e61e77971f4e193e6c374419eb"
+    },
+    {
+      "path": "dist/wallets/rabby.svg",
+      "sha256": "dcae4de88ebfa10cffa1fe28df13d7c8c0b40736ef2b704f1f2fc348e777e443"
+    },
+    {
+      "path": "docs/DESIGN.md",
+      "sha256": "5d4101ba51b6bc93d574ba510e66c4dc3ea0fa782e61e5a7a4a094cd5a4a05e4"
+    },
+    {
+      "path": "docs/frontend/ATTRIBUTION.md",
+      "sha256": "9426e1181f5e791241b8089a27dea37c256437ac70e0d8ee75a64585014fe328"
+    },
+    {
+      "path": "docs/frontend/Better-Interface-LICENSE.txt",
+      "sha256": "97042f2887a04fc6c26967568cee2a17b3229d0f7e5e3c0b0ac877bef6932c39"
+    },
+    {
+      "path": "docs/frontend/Eth-Frontend-UX-LICENSE.txt",
+      "sha256": "e6cc8ae603f03b9cb8a6b97e0d904e19105e5b5eec6f45bf1df163398f006801"
+    },
+    {
+      "path": "docs/frontend/RainbowKit-LICENSE.txt",
+      "sha256": "5095037afa1ba03be36e04305c01ec9ee600e14377738a026482b1a888c4e365"
+    },
+    {
+      "path": "docs/frontend/VALIDATION.md",
+      "sha256": "32118e29429fd7db7f1d56b63bff5ad47cc393ea898d60baecc20f9d1cf8b0ae"
+    },
+    {
+      "path": "docs/frontend/chain-read.json",
+      "sha256": "e059a9d0ebc5bf2478054d0c698493d25f061e94e2f1fd59fcb5ac453cc2ef1e"
+    },
+    {
+      "path": "docs/frontend/design-probe.json",
+      "sha256": "0e1c0628e58630ea7f44b116d8118ec4361aceb48cbab607d1a363d43188df62"
+    },
+    {
+      "path": "docs/frontend/interaction-results.json",
+      "sha256": "6aae7fbc14b5e2ed1b4db5f3eb00ae6c884284093e60b8099574bfc005906fe6"
+    },
+    {
+      "path": "docs/frontend/screenshots/desktop-1440.png",
+      "sha256": "2ea4d8347597faccdf8b16e9a46dd0f44cbbbe095f0c405fe5e2ff2db507f534"
+    },
+    {
+      "path": "docs/frontend/screenshots/live-1440.png",
+      "sha256": "7d77faa8af7bce98f3869ba21806d369d68516fbdcc97d9ed912d80093150fe7"
+    },
+    {
+      "path": "docs/frontend/screenshots/live-390.png",
+      "sha256": "29e2afd39d5f310ba305f5a556d54345db82fa4214bccfcf1bb35222c4ddf57a"
+    },
+    {
+      "path": "docs/frontend/screenshots/mobile-390.png",
+      "sha256": "930bc83aff52c35fece31e6c30fbfa8245c417a27f06ba01eda1120c39df356a"
+    },
+    {
+      "path": "docs/frontend/screenshots/mobile-wallets.png",
+      "sha256": "bd0566701fb945dfc099b97d1d008360812ae49c974a190383ea9e2ad0e972dd"
+    },
+    {
+      "path": "web/.gitignore",
+      "sha256": "8d19c520e91d78337664d26201fe263e7092eb961d27b1003d925f0ae5b3d74a"
+    },
+    {
+      "path": "web/README.md",
+      "sha256": "30a9bb18a49660d51d40562903b9af0a75550328243993fc1a3bd1f211a3c9a6"
+    },
+    {
+      "path": "web/deployment.template.json",
+      "sha256": "aba7626a19c69a7a1f48a7eecc3350d8b4d93297b5f44ed42849adfb713f434d"
+    },
+    {
+      "path": "web/index.html",
+      "sha256": "c81c7b8bf9585ae070a8938768fc49b49514a02f58cf163549486f1d05ff32a9"
+    },
+    {
+      "path": "web/package-lock.json",
+      "sha256": "e0da8ea503b1d172aff445160e03a37195a924ed4d4e7f39fcfa489f9d5d1a14"
+    },
+    {
+      "path": "web/package.json",
+      "sha256": "96172f1a375d37ec030258d0606ccd8ff1deae31698b4d66d2c18c76d31c14c4"
+    },
+    {
+      "path": "web/public/favicon.svg",
+      "sha256": "a32138397576502dfeecc6dd25533e1f5b30845b4431a00a91ad33a4b102ab09"
+    },
+    {
+      "path": "web/public/share.png",
+      "sha256": "2a02488a9ee24785a60f241113295d993c8a69e4b3a5729797618e6292e9e79c"
+    },
+    {
+      "path": "web/public/wallets/browser.svg",
+      "sha256": "da691858d99ff7f08a4b2d7b2a6515a94d407e3cb61f02c6927a4e8827afb14d"
+    },
+    {
+      "path": "web/public/wallets/coinbase.svg",
+      "sha256": "8d6330fd6cdc5108818d3db5fbd84e75d723fd1d7531a5b62b36982fc9868eac"
+    },
+    {
+      "path": "web/public/wallets/metamask.svg",
+      "sha256": "892c7dfab8c4ca5682878dda3f42f55a75195d7d365e4adb0832845f3a0a2135"
+    },
+    {
+      "path": "web/public/wallets/phantom.svg",
+      "sha256": "f841f8112e131259a2e5123177950099c79487e61e77971f4e193e6c374419eb"
+    },
+    {
+      "path": "web/public/wallets/rabby.svg",
+      "sha256": "dcae4de88ebfa10cffa1fe28df13d7c8c0b40736ef2b704f1f2fc348e777e443"
+    },
+    {
+      "path": "web/scripts/export-manifest.mjs",
+      "sha256": "62f130f4fcf25ac0fd75857e71e1786c0709a58845ecad1104614a3994fc4008"
+    },
+    {
+      "path": "web/scripts/integrity.mjs",
+      "sha256": "9dc17297d3fc1e57016bfd4838a0451dad298746f426e8d99548ab66d0612bc6"
+    },
+    {
+      "path": "web/scripts/share.mjs",
+      "sha256": "754ac1ff1dd44e8441051643bff0d937bf4fa13aa66edb5aa75da43416427b8b"
+    },
+    {
+      "path": "web/scripts/verify-export.mjs",
+      "sha256": "619a0f956126acbf9ff09997169cf2fb2b3b4d2c767cc7c8222340de82c514a5"
+    },
+    {
+      "path": "web/src/App.tsx",
+      "sha256": "05b267a61be03ec71cec2cbc0764e4a160726023fc7fcd2e1041be7d009c4ffb"
+    },
+    {
+      "path": "web/src/Wallet.tsx",
+      "sha256": "2e47add92005d008c7d5b7031d831b00a44ae0acd1d44409b810e8f4f7e230c4"
+    },
+    {
+      "path": "web/src/chain.ts",
+      "sha256": "8623228f55c287c84b9e8eb214b9e763e6f2045b224c96dfb7e0de29b9c7b1b3"
+    },
+    {
+      "path": "web/src/config.ts",
+      "sha256": "6563430269ac90ab34c37a5fecd4c7bed762d16ef5062b7b72c47ec84f421326"
+    },
+    {
+      "path": "web/src/domain.ts",
+      "sha256": "ffddcbb41ebb95591deb06323bb330d1bbb5989b64e2e49332477916dba0f1cc"
+    },
+    {
+      "path": "web/src/main.tsx",
+      "sha256": "87ed9ca4ae9ec8335e96aa2590144f9d0cdc65a36af0629e85d40f4cc0f28da9"
+    },
+    {
+      "path": "web/src/styles.css",
+      "sha256": "793aa71019952e58251c103508bd24bdd3b98a42b5babe4b76c1a45f1cc18ffc"
+    },
+    {
+      "path": "web/tests/browser.mjs",
+      "sha256": "333370c2616cb372be053067a20086f61fc308c1f8ddddddbda2986d8c1a7e40"
+    },
+    {
+      "path": "web/tests/domain.test.mjs",
+      "sha256": "17e5d1244e016214b405337f81c6382ac2e509e0db58160db66914677d2703ad"
+    },
+    {
+      "path": "web/tsconfig.json",
+      "sha256": "9e40e628c2627a2225b8c022cc7df0bcd8972ff274be860c7cb9911bb1190099"
+    },
+    {
+      "path": "web/vite.config.ts",
+      "sha256": "c2019cd86d3c5ea26733ee14b8ee57290cb7f1f55352e5492046b762de6a74e9"
+    }
+  ]
+}

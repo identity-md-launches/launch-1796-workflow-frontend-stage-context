@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-15T01:24:29.348Z",
+  "source": "https://ethereum-rpc.publicnode.com",
+  "chainId": 1,
+  "block": 26194609,
+  "contract": "0xa47376608ecc82972c711993c20b7b2b9dbe79bb",
+  "codeBytes": 5306,
+  "codeKeccak256": "0x90cef47460dbc2f075a63f938d6aca2da35d04ab5df25040ff3ff364151c6ff0",
+  "abiHash": "b07509ebaf542d356344011eee7be13e36a1322f223302f9c69063c228adf1d2",
+  "reads": {
+    "owner": "0xB77161bbAF98470c6C5101899d30df413F9A019D",
+    "token": "0x0000000000000000000000000000000000000000",
+    "tokenDecimals": 0,
+    "minimumBurn": "0",
+    "currentMessage": {
+      "author": "0x0000000000000000000000000000000000000000",
+      "text": "",
+      "burned": "0",
+      "timestamp": "0"
+    },
+    "messageCount": "0",
+    "getRecentMessages": [],
+    "totalBurned": "0"
+  },
+  "transactionsBroadcast": 0
+}

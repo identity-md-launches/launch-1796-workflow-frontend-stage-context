@@ -1,0 +1,9 @@
+# Explicit path budget: web/.gitignore. Keep dependency/cache trees out at every depth.
+node_modules/
+**/node_modules/
+**/.cache/
+**/.vite/
+**/.npm/
+**/playwright-report/
+**/test-results/
+*.tsbuildinfo

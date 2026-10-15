@@ -1,0 +1,108 @@
+{
+  "scope": "Worker-run production-export tests using intercepted public RPC and synthetic EIP-6963 wallet. No real transactions.",
+  "date": "2026-10-15T01:32:30.232Z",
+  "results": [
+    {
+      "name": "Static subpath; live configuration and ABI; first-screen primary control; 320/390/1440 reflow",
+      "passed": true,
+      "durationMs": 1579
+    },
+    {
+      "name": "EIP-6963 discovery; generic row hidden; keyboard dialog close and focus return",
+      "passed": true,
+      "durationMs": 788
+    },
+    {
+      "name": "Free post: simulation, explicit review, exact zero burn, no ETH value, receipt, cooldown",
+      "passed": true,
+      "durationMs": 1329
+    },
+    {
+      "name": "Unknown chain: switch, add exact handoff chain, switch again",
+      "passed": true,
+      "durationMs": 766
+    },
+    {
+      "name": "Paid flow: six decimals; explicit approval then post; pending stays locked",
+      "passed": true,
+      "durationMs": 1677
+    },
+    {
+      "name": "Existing insufficient allowance: reset to zero before exact approval",
+      "passed": true,
+      "durationMs": 1382
+    },
+    {
+      "name": "Wallet rejection is recoverable and sends nothing",
+      "passed": true,
+      "durationMs": 992
+    },
+    {
+      "name": "Simulation revert exposes useful error and never requests a signature",
+      "passed": true,
+      "durationMs": 895
+    },
+    {
+      "name": "Minimum increases after review: no silent increase and no wallet write",
+      "passed": true,
+      "durationMs": 1247
+    },
+    {
+      "name": "Owner setup validates address, requires acknowledgement, and sets token once",
+      "passed": true,
+      "durationMs": 1178
+    },
+    {
+      "name": "Phone wallet links retain subpath; Coinbase Smart Wallet; no relay",
+      "passed": true,
+      "durationMs": 669
+    },
+    {
+      "name": "50 message history; long balances and Unicode; no HTML injection; no horizontal overflow",
+      "passed": true,
+      "durationMs": 780
+    },
+    {
+      "name": "Read failure retains state, disables posting, and recovers on refresh",
+      "passed": true,
+      "durationMs": 6770
+    },
+    {
+      "name": "No browser wallet gives an actionable error; connection rejection can retry",
+      "passed": true,
+      "durationMs": 1388
+    },
+    {
+      "name": "Pending transaction survives reload and blocks another submission until status check",
+      "passed": true,
+      "durationMs": 887
+    },
+    {
+      "name": "ABI tampering fails closed before wallet or transaction controls load",
+      "passed": true,
+      "durationMs": 364
+    },
+    {
+      "name": "Text enlargement, RTL layout, reduced motion, and modal focus trap",
+      "passed": true,
+      "durationMs": 673
+    },
+    {
+      "name": "WebKit free-post interaction and 390px reflow",
+      "passed": true,
+      "durationMs": 3982
+    }
+  ],
+  "browserErrors": [],
+  "rpcMethods": [
+    "eth_blockNumber",
+    "eth_call",
+    "eth_chainId",
+    "eth_estimateGas",
+    "eth_gasPrice",
+    "eth_getBlockByNumber",
+    "eth_getCode",
+    "eth_getTransactionByHash",
+    "eth_getTransactionReceipt"
+  ]
+}
